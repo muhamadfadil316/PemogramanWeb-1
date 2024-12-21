@@ -1,0 +1,34 @@
+.header-image {
+    width: 100%;
+    height: auto;
+}
+
+.slider img {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    background-color: #f8f9fa; /* Light background for better contrast */
+}
+
+h1, h2 {
+    color: #343a40; /* Dark gray for headings */
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef; /* Light gray on hover */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bootstrap primary color */
+}
+
+footer {
+    background-color: #343a40; /* Dark footer */
+    color: white;
+}
